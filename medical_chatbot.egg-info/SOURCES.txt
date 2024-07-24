@@ -1,5 +1,9 @@
 README.md
 setup.py
+Medical_chatbot.egg-info/PKG-INFO
+Medical_chatbot.egg-info/SOURCES.txt
+Medical_chatbot.egg-info/dependency_links.txt
+Medical_chatbot.egg-info/top_level.txt
 medical_chatbot.egg-info/PKG-INFO
 medical_chatbot.egg-info/SOURCES.txt
 medical_chatbot.egg-info/dependency_links.txt
