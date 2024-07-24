@@ -1,5 +1,6 @@
 llama-2-7b.ggmlv3.q4_0.bin
 .env
+C:\Users\ak604\end-to-end-medical-chatbot\.env
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
