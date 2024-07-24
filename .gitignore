@@ -1,4 +1,5 @@
 llama-2-7b.ggmlv3.q4_0.bin
+.env
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -128,6 +129,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+
 
 # Spyder project settings
 .spyderproject
